@@ -3,8 +3,6 @@
 1. [OOP vs Object Literal in Javascript](#OOP-vs-Object-Literal-in-Javascript)
 1. [The Class Anatomy](#The-Class-Anatomy)
 1. [OOP Characteristics](#OOP-Characteristics)
-1. [The tips and tricks](#The-tips-and-tricks)
-1. [The Big O notation at glance](#The-Big-O-notation-at-glance)
 1. [References](#references)
 
 ## The Object Oriented Programming
